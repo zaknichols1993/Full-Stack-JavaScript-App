@@ -62,6 +62,6 @@ This project is licensed under the MIT License
 
 ## Final Thoughts
 
-* I really enjoyed working with Vue. They have some of the best documentation for a framework I've ever saw. There are so many helper methods and modifiers it makes JavaScript fun. I can see why this framework is trending so much lately.
+* I really enjoyed working with Vue. They have some really good documentation. I prefer React, but there are so many helper methods and modifiers it makes JavaScript fun. I can see why this framework is trending so much lately.
 * Node.js/Express.js has always been great to me. Writing API's is straight forward and NPM provides so much great tooling.
 * I went with the ORM Sequelize with SQLite instead of MongoDB because my data is relational and SQL is the king of data. The documentation for Sequelize is pretty good, but I think in the future raw SQL queries are better and faster as the app gets more data heavy.
